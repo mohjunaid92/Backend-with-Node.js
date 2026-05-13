@@ -1,4 +1,8 @@
-const Math = require("./math");
+import { PI , mul, g} from "./Math.js";
 
-console.log(Math.sum(2,4));
+console.log(PI);clear
+
+
+
+
 
